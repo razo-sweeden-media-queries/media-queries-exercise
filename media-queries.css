@@ -1,0 +1,6 @@
+
+.nav-links li {
+    display: inline-flex;
+    background-color: lightgray;
+    list-style-type: none;
+}
